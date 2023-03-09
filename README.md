@@ -10,21 +10,21 @@ Front-end repo: https://github.com/sobrien-banyan/snake-game
 
 Back-end repo: https://github.com/sobrien-banyan/snake-game-backend
 
-GitHub
+[GitHub](https://github.com/)
 
-Netlify.com
+[Netlify.com](https://www.netlify.com/)
 
-namcheap.com
+[namcheap.com](https://www.namecheap.com/)
 
-MongoDB Atlas
+[MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register)
 
-AWS
+[AWS](https://aws.amazon.com/)
 
-cerbot
+[cerbot](https://certbot.eff.org/instructions?ws=nginx&os=ubuntufocal)
 
-nginx
+[nginx](https://www.nginx.com/)
 
-w3Schools
+[w3Schools](https://www.w3schools.com/)
 
  
 
