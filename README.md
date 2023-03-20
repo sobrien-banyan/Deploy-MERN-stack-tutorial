@@ -170,7 +170,7 @@ https://github.com/sobrien-banyan/snake-game-backend
 - Under `Email to notify` enter your email address
 - Under `Form` select from the dropdown `contact` and then select `Save`
 - Test it by going the site and submit the contact form. You should receive an email with the input form data.
-- F.Y.I. there is a hidden form in index.html thats connect the the Contact.jsx form that makes it work.
+- F.Y.I. there is a hidden form in index.html that connects the Contact.jsx form that makes it work.
 
 ## To go forward you will need to deploy the back end repo: https://github.com/sobrien-banyan/snake-game-backend. Once you are done with deploying the back end, you will need to insert the server domain name into the .env file using netlify's dashboard.
 
@@ -183,17 +183,16 @@ https://github.com/sobrien-banyan/snake-game-backend
 12. Select `Create variable`
 13. The site needs to be redeplyed. Select the website from the dashboard. Select `Deploys`
 14. Select `Trigger deploy` then select `Deploy site`
-15. All done!
 
 
 ## The following steps are for using a custom domain name from namecheap for the application
 
-16. Register a domain name at [namecheap](https://www.namecheap.com/). Cost is a few dollor.
-17. Go to netlify, select the site and then select `Domains`
-18. Select `Add or register domain`
-19. For input `Domain of subdomain` enter the domain name from netlify and click `Verify`. You may be asked to Activate Netlify DNS.
-20. From `Domains` select the domain and it will take you to `DNS settings`. Find section `Name servers`. Copy the four name servers. They will look something like `dns.p01.nsone.net`. The name will need to by copied your namecheap account.
-21. Go to the namecheap dashboard. Select `Domain List`
-22. Find the domain name and select `Manage`
-23. Scroll down and find the `NAMESERVERS` section. Select `+ ADD NAMESERVER` and copy the 'Name servers' from Netlify one-by-one. e.g. `dns.p01.nsone.net` 
-24. All done!
+15. Register a domain name at [namecheap](https://www.namecheap.com/). Cost is a few dollor.
+16. Go to netlify, select the site and then select `Domains`
+17. Select `Add or register domain`
+18. For input `Domain of subdomain` enter the domain name from netlify and click `Verify`. You may be asked to Activate Netlify DNS.
+19. From `Domains` select the domain and it will take you to `DNS settings`. Find section `Name servers`. Copy the four name servers. They will look something like `dns.p01.nsone.net`. The name will need to by copied your namecheap account.
+20. Go to the namecheap dashboard. Select `Domain List`
+21. Find the domain name and select `Manage`
+22. Scroll down and find the `NAMESERVERS` section. Select `+ ADD NAMESERVER` and copy the 'Name servers' from Netlify one-by-one. e.g. `dns.p01.nsone.net` 
+23. All done!
